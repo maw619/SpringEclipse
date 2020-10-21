@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Oct 20 23:16:44 EDT 2020
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Marco\\eclipse-workspace-spring\\SpringDemo\\WebContent\\WEB-INF\\lib\\spring-web-5.2.9.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.2.9.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Marco\\eclipse-workspace-spring\\SpringDemo\\WebContent\\WEB-INF\\lib\\spring-web-5.2.9.RELEASE.jar=WEB-INF/lib/spring-web-5.2.9.RELEASE.jar

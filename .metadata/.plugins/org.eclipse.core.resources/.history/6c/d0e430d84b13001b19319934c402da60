@@ -1,0 +1,5 @@
+package com.wolff.entity;
+
+public class Customer {
+
+}
